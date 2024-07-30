@@ -3,7 +3,7 @@
 
 function VectorCards({name, imageURL, desc}) {
   return (
-    <div className=" bg-[#00aaff] rounded-xl overflow-hidden w-[200px] h-auto">
+    <div className=" bg-[#71c8f3] rounded-xl overflow-hidden w-[200px] h-auto">
         <img 
         src={imageURL}
         className="w-[200px] h-[150px]"

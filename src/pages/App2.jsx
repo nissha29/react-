@@ -1,7 +1,7 @@
 // import React from 'react'
 
 import { useState } from "react"
-import VectorCards from "./components/VectorCards"
+import VectorCards from "../components/VectorCards"
 
 function App2() {
 
